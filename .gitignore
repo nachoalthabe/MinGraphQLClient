@@ -1,0 +1,24 @@
+### Byte-compiled
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+*$py.class
+
+### Python destributions
+MANIFEST
+dist/
+build/
+
+### Python virtual environments
+venv_*/
+
+### Vim swap files
+*.swp
+*.swo
+
+### OSX
+*.DS_Store
+.AppleDouble
+.LSOverride
+._*
